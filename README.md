@@ -11,6 +11,11 @@ Html
 php
 css
 ```
+Discord: M1kk4l#6969
+
+Steam: https://steamcommunity.com/id/M1kk4l_/
+
+Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 
 ## Dansk
 
@@ -24,3 +29,8 @@ Html
 php
 css
 ```
+Discord: M1kk4l#6969
+
+Steam: https://steamcommunity.com/id/M1kk4l_/
+
+Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
