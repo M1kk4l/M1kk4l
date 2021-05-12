@@ -2,7 +2,7 @@
 
 <h2 align="center">English</h2>
 
-<img align="right" alt="" height="130px" src="https://media.giphy.com/media/DPszHmg7oGlSONHzNx/giphy.gif" />
+<img align="right" alt="" height="130px" src="https://media.giphy.com/media/6YNoAfTdiMcjsPz9jQ/giphy.gif" />
 
 Welcome to my profile.
 I am interested in coding of 
@@ -49,7 +49,7 @@ I am interested in coding of
 
 <h1 align="center">Dansk</h1>
 
-<img align="right" alt="" height="130px" src="https://media.giphy.com/media/DPszHmg7oGlSONHzNx/giphy.gif" />
+<img align="right" alt="" height="130px" src="https://media.giphy.com/media/6YNoAfTdiMcjsPz9jQ/giphy.gif" />
 
 Velkommen til min profil.
 jeg interessere mig i kodning af 
