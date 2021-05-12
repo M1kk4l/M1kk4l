@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile 👋
 ## English
 
-<img align="right" alt="" height="160px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
+<img align="right" alt="" height="140px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
 
 Welcome to my profile.
 I am interested in coding of 
@@ -36,7 +36,7 @@ Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 
 ## Dansk
 
-<img align="right" alt="" height="160px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
+<img align="right" alt="" height="140px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
 
 Velkommen til min profil.
 jeg interessere mig i kodning af 
