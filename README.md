@@ -47,7 +47,7 @@ I am interested in coding of
 <br>
 <br>
 
-<h2 align="center">Dansk</h2>
+<h1 align="center">Dansk</h1>
 
 <img align="right" alt="" height="130px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
 
