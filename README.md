@@ -12,7 +12,7 @@ I am interested in coding of
 
 Discord: M1kk4l#6969
 
-Steam: https://steamcommunity.com/id/M1kk4l_
+Steam: https://steamcommunity.com/id/M1kk4l_/
 
 Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 
@@ -45,7 +45,7 @@ jeg interessere mig i kodning af
 
 Discord: M1kk4l#6969
 
-Steam: https://steamcommunity.com/id/M1kk4l_
+Steam: https://steamcommunity.com/id/M1kk4l_/
 
 Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 
