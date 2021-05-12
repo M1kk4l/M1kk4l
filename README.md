@@ -1,5 +1,6 @@
-# 👋 Welcome to my profile 👋
-## English
+<h1 align="center">👋 Welcome to my profile 👋</h1>
+
+<h2 align="center">English</h2>
 
 <img align="right" alt="" height="130px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
 
@@ -40,8 +41,13 @@ I am interested in coding of
 </div
 
 <br/>
+<br>
+<br>
+<hr>
+<br>
+<br>
 
-## Dansk
+<h2 align="center">Dansk</h2>
 
 <img align="right" alt="" height="130px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
 
