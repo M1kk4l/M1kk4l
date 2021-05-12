@@ -1,6 +1,8 @@
 # 👋 Welcome to my profile 👋
 ## English
 
+<img align="right" alt="" height="160px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
+
 Welcome to my profile.
 I am interested in coding of 
 ![Lua](https://img.shields.io/badge/%20-%20Lua-blue)
@@ -9,8 +11,6 @@ I am interested in coding of
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![php](https://img.shields.io/badge/-php-lightblue)
 ![css](https://img.shields.io/badge/-css-yellowgreen)
-
-<img align="right" src="https://cdn.discordapp.com/attachments/806452809875980299/842100418229698610/M1KK4LGif.gif"/>
 
 Discord: M1kk4l#6969
 
@@ -35,6 +35,8 @@ Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 <br/>
 
 ## Dansk
+
+<img align="right" alt="" height="160px" src="https://media.giphy.com/media/UIUDOytp6xNz9tyVJa/giphy.gif" />
 
 Velkommen til min profil.
 jeg interessere mig i kodning af 
