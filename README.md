@@ -12,11 +12,18 @@ I am interested in coding of
 ![php](https://img.shields.io/badge/-php-lightblue)
 ![css](https://img.shields.io/badge/-css-yellowgreen)
 
-Discord: M1kk4l#6969
+## 🔎 Find Me 🔎
 
-Steam: https://steamcommunity.com/id/M1kk4l_/
+[Discord]: https://discord.com/users/381455281437147146
 
-Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
+[Steam]: https://steamcommunity.com/id/M1kk4l_/
+
+[Youtube]: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
+
+[<img align="left" alt="" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />][Discord]
+[<img align="left" alt="" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/steam-256.png" />][Steam]
+[<img align="left" alt="" height="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/4-youtube_video-256.png" />][Youtube]
+<br />
 
 ---
 <br/>
@@ -47,11 +54,18 @@ jeg interessere mig i kodning af
 ![php](https://img.shields.io/badge/-php-lightblue)
 ![css](https://img.shields.io/badge/-css-yellowgreen)
 
-Discord: M1kk4l#6969
+## 🔎 Find Me 🔎
 
-Steam: https://steamcommunity.com/id/M1kk4l_/
+[Discord]: https://discord.com/users/381455281437147146
 
-Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
+[Steam]: https://steamcommunity.com/id/M1kk4l_/
+
+[Youtube]: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
+
+[<img align="left" alt="" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />][Discord]
+[<img align="left" alt="" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/steam-256.png" />][Steam]
+[<img align="left" alt="" height="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/4-youtube_video-256.png" />][Youtube]
+<br />
 
 ---
 <br/>
