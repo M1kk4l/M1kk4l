@@ -10,6 +10,8 @@ I am interested in coding of
 ![php](https://img.shields.io/badge/-php-lightblue)
 ![css](https://img.shields.io/badge/-css-yellowgreen)
 
+<img align="right" src="https://cdn.discordapp.com/attachments/806452809875980299/842100418229698610/M1KK4LGif.gif"/>
+
 Discord: M1kk4l#6969
 
 Steam: https://steamcommunity.com/id/M1kk4l_/
