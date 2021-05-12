@@ -2,18 +2,17 @@
 ## English
 
 Welcome to my profile.
-I am interested in coding of:
-```
-Lua
-Node.js
-Javascript
-Html
-php
-css
-```
+I am interested in coding of 
+![Lua](https://img.shields.io/badge/%20-%20Lua-blue)
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![HTML](https://img.shields.io/badge/-HTML-red)
+![php](https://img.shields.io/badge/-php-lightblue)
+![css](https://img.shields.io/badge/-css-yellowgreen)
+
 Discord: M1kk4l#6969
 
-Steam: https://steamcommunity.com/id/M1kk4l_/
+Steam: https://steamcommunity.com/id/M1kk4l_
 
 Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 
@@ -36,18 +35,17 @@ Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 ## Dansk
 
 Velkommen til min profil.
-jeg interessere mig i kodning af:
-```
-Lua
-Node.js
-Javascript
-Html
-php
-css
-```
+jeg interessere mig i kodning af 
+![Lua](https://img.shields.io/badge/%20-%20Lua-blue)
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![HTML](https://img.shields.io/badge/-HTML-red)
+![php](https://img.shields.io/badge/-php-lightblue)
+![css](https://img.shields.io/badge/-css-yellowgreen)
+
 Discord: M1kk4l#6969
 
-Steam: https://steamcommunity.com/id/M1kk4l_/
+Steam: https://steamcommunity.com/id/M1kk4l_
 
 Youtube: https://www.youtube.com/channel/UCeCutsGoXXiwQj0KAkRh1_A
 
